@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shubham, I am currently persuing B-Tech from India
+- 👀 I’m interested in learning new things and making different project
+- 🌱 I’m currently learning Swift and Python currently but open to learn new languages whenever provided with the opportunities
+- 💞️ I’m looking to collaborate on innovative Swift and Python
+- 📫 How to reach me through linkedIn my profile is https://www.linkedin.com/in/shubham-mittal-470ab0202/
