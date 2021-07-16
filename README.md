@@ -2,4 +2,4 @@
 -  I’m interested in learning new things and making different project
 -  I’m currently learning Swift and Python currently but open to learn new languages whenever provided with the opportunities
 -  I’m looking to collaborate on innovative Swift and Python projects
--  You can reach me through linkedIn my profile is https://www.linkedin.com/in/shubham-mittal-470ab0202/ and my personal website is bit.ly/3pYBctR
+-  You can reach me through linkedIn my profile is https://www.linkedin.com/in/shubham-mittal-470ab0202/ and my personal website is https://www.bit.ly/3pYBctR
