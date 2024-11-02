@@ -1,5 +1,8 @@
--  Hi, I’m Shubham, I am currently persuing B-Tech from India
--  I’m interested in learning new things and making different project
--  I’m currently learning Swift and Python currently but open to learn new languages whenever provided with the opportunities
--  I’m looking to collaborate on innovative Swift and Python projects
--  You can reach me through linkedIn my profile is https://www.linkedin.com/in/shubham-mittal-470ab0202/ 
+👋 Hi, I’m Shubham Mittal, an Associate Software Engineer at Bosch with a passion for crafting high-quality mobile and web applications. With over two years of experience in iOS development, I specialize in optimizing app performance, enhancing user interfaces, and building robust automotive solutions in fast-paced, agile environments.
+
+🌱 I have a strong foundation in Swift, C++, JavaScript, and SAP ABAP, with additional hands-on experience in ReactJS and Flutter. My recent projects include developing an iOS game, a weather app with real-time API integration, and a venue meta search platform.
+
+📈 I enjoy pushing the boundaries of app performance and was able to reduce the size of an iOS app by 40MB in a recent internship, improving both speed and user experience. I’m driven by data and analytics to make decisions that elevate user satisfaction.
+
+📫 Reach me on LinkedIn or browse my projects right here on GitHub!
+
